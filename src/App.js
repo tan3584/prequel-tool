@@ -1,6 +1,7 @@
 import React from 'react';
 import bossData from './bossData.json';
 import BossGrid from './components/BossGrid';
+import './App.css';
 
 const BossZone = ({ zone, bossesData }) => {
   return (

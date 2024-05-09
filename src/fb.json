@@ -75,6 +75,18 @@
                 "Halcyon Cemetery",
                 "Scorching Volcano"
             ]
+        },
+        {
+            "name": "Mana Buffer",
+            "effect": [
+                "Damage offset to Mana by +(25/50)% ",
+                "Skill Mana cost -(25/50)% "
+            ],
+            "hex": "Damage offset to Mana by +25% ",
+            "where": [
+                "V4RK01",
+                "TerminusIxion"
+            ]
         }
     ]
 

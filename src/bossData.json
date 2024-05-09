@@ -183,5 +183,70 @@
         ],
         "food": "Carrot",
         "color": "#68BE51"
+    },
+    "Scorching Volcano": {
+        "bosses": [
+            {
+                "name": "Ember Wyrm",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Dragon Fruit",
+        "color": "#68BE51"
+    },
+    "Everfrost Peaks": {
+        "bosses": [
+            {
+                "name": "Snow Monkey king",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Banana",
+        "color": "#68BE51"
+    },
+    "Ancient Ruins": {
+        "bosses": [
+            {
+                "name": "Zulan the Colossus",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Grapes",
+        "color": "#68BE51"
+    },
+    "Esoteria": {
+        "bosses": [
+            {
+                "name": "C6H806",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Carrot",
+        "color": "#68BE51"
+    },
+    "Tower Of Aeonia": {
+        "bosses": [
+            {
+                "name": "Void Varkolyn",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Devil's Fruit",
+        "color": "#68BE51"
     }
 }
