@@ -1,0 +1,187 @@
+{
+    "Southern steppes": {
+        "bosses": [
+            {
+                "name": "Boar King",
+                "time": "Day",
+                "start": "6:00",
+                "end": "18:00",
+                "img": "boar-king.png"
+            },
+            {
+                "name": "Grimhowl Gang",
+                "time": "Night",
+                "start": "18:00",
+                "end": "6:00",
+                "img": "grimhowl-gang.png"
+            }
+        ],
+        "food": "Cherry",
+        "color": "#68BE51"
+    },
+    "Bulrush Marshes": {
+        "bosses": [
+            {
+                "name": "Giant Toad",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "giant-toad.png"
+            }
+        ],
+        "food": "Rice",
+        "color": "#68BE51"
+    },
+    "Murkwood": {
+        "bosses": [
+            {
+                "name": "Mandgora",
+                "time": "Day",
+                "start": "6:00",
+                "end": "20:00",
+                "img": "mandgora.png"
+            },
+            {
+                "name": "Elf + Mandgora",
+                "time": "Night",
+                "start": "20:00",
+                "end": "6:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Tomato",
+        "color": "#68BE51"
+    },
+    "Brinewash Grotto": {
+        "bosses": [
+            {
+                "name": "Medusa",
+                "time": "Day",
+                "start": "6:00",
+                "end": "18:00",
+                "img": "boar-king.png"
+            },
+            {
+                "name": "Inductive Slime King",
+                "time": "Night",
+                "start": "18:00",
+                "end": "6:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Russula",
+        "color": "#68BE51"
+    },
+    "Crystal Mines": {
+        "bosses": [
+            {
+                "name": "Crystal Snapclaw",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Blue Milkcap",
+        "color": "#68BE51"
+    },
+    "Halcyon Cementary": {
+        "bosses": [
+            {
+                "name": "Skeleton King",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Eggplant",
+        "color": "#68BE51"
+    },
+    "Arid Sands": {
+        "bosses": [
+            {
+                "name": "Sandworm",
+                "time": "Day",
+                "start": "6:00",
+                "end": "18:00",
+                "img": "boar-king.png"
+            },
+            {
+                "name": "Anubis",
+                "time": "Night",
+                "start": "18:00",
+                "end": "6:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Water Melon",
+        "color": "#68BE51"
+    },
+    "Ruined Citadel": {
+        "bosses": [
+            {
+                "name": "Arc Knight",
+                "time": "Day",
+                "start": "6:00",
+                "end": "18:00",
+                "img": "boar-king.png"
+            },
+            {
+                "name": "Black Arc Knight",
+                "time": "Evening",
+                "start": "18:00",
+                "end": "20:00",
+                "img": "boar-king.png"
+            },
+            {
+                "name": "Arc Wizard",
+                "time": "Night",
+                "start": "20:00",
+                "end": "6:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Pea",
+        "color": "#68BE51"
+    },
+    "Geolithic Hill": {
+        "bosses": [
+            {
+                "name": "Triumvirite Megaliths",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Orange",
+        "color": "#68BE51"
+    },
+    "Forest Of Tranquility": {
+        "bosses": [
+            {
+                "name": "Goblin High Priest",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Pumpkin",
+        "color": "#68BE51"
+    },
+    "Searcrest Haven": {
+        "bosses": [
+            {
+                "name": "Buccaneer Captain",
+                "time": "All Day",
+                "start": "0:00",
+                "end": "24:00",
+                "img": "boar-king.png"
+            }
+        ],
+        "food": "Carrot",
+        "color": "#68BE51"
+    }
+}

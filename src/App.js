@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import bossData from './bossData.json';
+import BossGrid from './components/BossGrid';
 
-function App() {
+const BossZone = ({ zone, bossesData }) => {
+  return (
+    <div className="boss-zone">
+      <h5 style={{ color: bossesData.color }} className="zone-title">{zone} {bossesData.food}</h5>
+      <div className="bosses">
+        {bossesData.bosses.map((boss, index) => (
+          <BossGrid key={index} boss={boss} />
+        ))}
+      </div>
+    </div >
+  );
+};
+
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="boss-table">
+        {Object.entries(bossData).map(([zone, bossesAndFood]) => (
+          <BossZone key={zone} zone={zone} bossesData={bossesAndFood} />
+        ))}
+      </div>
     </div>
   );
-}
+};
 
 export default App;
