@@ -1,28 +1,33 @@
 {
   "files": {
     "main.css": "/prequel-tool/static/css/main.255971f2.chunk.css",
-    "main.js": "/prequel-tool/static/js/main.c0dd4752.chunk.js",
-    "main.js.map": "/prequel-tool/static/js/main.c0dd4752.chunk.js.map",
-    "runtime-main.js": "/prequel-tool/static/js/runtime-main.3e35fb0e.js",
-    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.3e35fb0e.js.map",
+    "main.js": "/prequel-tool/static/js/main.339251bb.chunk.js",
+    "main.js.map": "/prequel-tool/static/js/main.339251bb.chunk.js.map",
+    "runtime-main.js": "/prequel-tool/static/js/runtime-main.7307f6f8.js",
+    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.7307f6f8.js.map",
     "static/js/2.843fe0e8.chunk.js": "/prequel-tool/static/js/2.843fe0e8.chunk.js",
     "static/js/2.843fe0e8.chunk.js.map": "/prequel-tool/static/js/2.843fe0e8.chunk.js.map",
-    "static/js/3.a519fe35.chunk.js": "/prequel-tool/static/js/3.a519fe35.chunk.js",
-    "static/js/3.a519fe35.chunk.js.map": "/prequel-tool/static/js/3.a519fe35.chunk.js.map",
+    "static/js/3.8224037b.chunk.js": "/prequel-tool/static/js/3.8224037b.chunk.js",
+    "static/js/3.8224037b.chunk.js.map": "/prequel-tool/static/js/3.8224037b.chunk.js.map",
     "index.html": "/prequel-tool/index.html",
-    "precache-manifest.c8ea9ea1839aceca17656f6e7ae27e3a.js": "/prequel-tool/precache-manifest.c8ea9ea1839aceca17656f6e7ae27e3a.js",
+    "precache-manifest.de45330342e4489d8648f04fe2f7d0e0.js": "/prequel-tool/precache-manifest.de45330342e4489d8648f04fe2f7d0e0.js",
     "service-worker.js": "/prequel-tool/service-worker.js",
     "static/css/main.255971f2.chunk.css.map": "/prequel-tool/static/css/main.255971f2.chunk.css.map",
     "static/js/2.843fe0e8.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.843fe0e8.chunk.js.LICENSE.txt",
+    "static/media/CrystalSnapclaw.png": "/prequel-tool/static/media/CrystalSnapclaw.8174a7c4.png",
+    "static/media/ElfMandgora.png": "/prequel-tool/static/media/ElfMandgora.53051512.png",
+    "static/media/Medusa.png": "/prequel-tool/static/media/Medusa.12a08881.png",
+    "static/media/SkeletonKing.png": "/prequel-tool/static/media/SkeletonKing.002b5aa8.png",
+    "static/media/SlimeKing.png": "/prequel-tool/static/media/SlimeKing.42963a43.png",
     "static/media/bg-main.jpg": "/prequel-tool/static/media/bg-main.b58adbd4.jpg",
     "static/media/giant-toad.png": "/prequel-tool/static/media/giant-toad.4476daa0.png",
     "static/media/grimhowl-gang.png": "/prequel-tool/static/media/grimhowl-gang.9edbd398.png",
     "static/media/App.css": "/prequel-tool/static/media/s2-banner.4302a350.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e35fb0e.js",
+    "static/js/runtime-main.7307f6f8.js",
     "static/js/2.843fe0e8.chunk.js",
     "static/css/main.255971f2.chunk.css",
-    "static/js/main.c0dd4752.chunk.js"
+    "static/js/main.339251bb.chunk.js"
   ]
 }

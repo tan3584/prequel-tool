@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd150fd5f7f275b9a1ac2360f565e7b0",
+    "revision": "a1dc14f745b62313a7732250a39f3dd0",
     "url": "/prequel-tool/index.html"
   },
   {
-    "revision": "e5d2cea009c6c9f50dec",
+    "revision": "7dda99dc69ed1dc3b2aa",
     "url": "/prequel-tool/static/css/main.255971f2.chunk.css"
   },
   {
@@ -16,16 +16,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prequel-tool/static/js/2.843fe0e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ffa542412ed0a4237b1",
-    "url": "/prequel-tool/static/js/3.a519fe35.chunk.js"
+    "revision": "689d327952c2c888416b",
+    "url": "/prequel-tool/static/js/3.8224037b.chunk.js"
   },
   {
-    "revision": "e5d2cea009c6c9f50dec",
-    "url": "/prequel-tool/static/js/main.c0dd4752.chunk.js"
+    "revision": "7dda99dc69ed1dc3b2aa",
+    "url": "/prequel-tool/static/js/main.339251bb.chunk.js"
   },
   {
-    "revision": "65e7a6dd2ca4f640fd99",
-    "url": "/prequel-tool/static/js/runtime-main.3e35fb0e.js"
+    "revision": "db10fd324b93fb155d76",
+    "url": "/prequel-tool/static/js/runtime-main.7307f6f8.js"
+  },
+  {
+    "revision": "8174a7c485e818c2d66a09e39a7d8f1f",
+    "url": "/prequel-tool/static/media/CrystalSnapclaw.8174a7c4.png"
+  },
+  {
+    "revision": "530515127a092e1a3146c874b5f7a92a",
+    "url": "/prequel-tool/static/media/ElfMandgora.53051512.png"
+  },
+  {
+    "revision": "12a088814bcede3a657c05b298af5c04",
+    "url": "/prequel-tool/static/media/Medusa.12a08881.png"
+  },
+  {
+    "revision": "002b5aa8bc6268ae231fc6807bebbec2",
+    "url": "/prequel-tool/static/media/SkeletonKing.002b5aa8.png"
+  },
+  {
+    "revision": "42963a4338548cb91aea8063fb2b6523",
+    "url": "/prequel-tool/static/media/SlimeKing.42963a43.png"
   },
   {
     "revision": "b58adbd4932d4699dd9d5c662a21ba9b",
