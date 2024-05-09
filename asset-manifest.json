@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/prequel-tool/static/css/main.2bc254c8.chunk.css",
-    "main.js": "/prequel-tool/static/js/main.9fa4541d.chunk.js",
-    "main.js.map": "/prequel-tool/static/js/main.9fa4541d.chunk.js.map",
-    "runtime-main.js": "/prequel-tool/static/js/runtime-main.29673601.js",
-    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.29673601.js.map",
+    "main.css": "/prequel-tool/static/css/main.66e304ff.chunk.css",
+    "main.js": "/prequel-tool/static/js/main.86464e30.chunk.js",
+    "main.js.map": "/prequel-tool/static/js/main.86464e30.chunk.js.map",
+    "runtime-main.js": "/prequel-tool/static/js/runtime-main.ce81dfc0.js",
+    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.ce81dfc0.js.map",
     "static/js/2.843fe0e8.chunk.js": "/prequel-tool/static/js/2.843fe0e8.chunk.js",
     "static/js/2.843fe0e8.chunk.js.map": "/prequel-tool/static/js/2.843fe0e8.chunk.js.map",
-    "static/js/3.96d5a353.chunk.js": "/prequel-tool/static/js/3.96d5a353.chunk.js",
-    "static/js/3.96d5a353.chunk.js.map": "/prequel-tool/static/js/3.96d5a353.chunk.js.map",
+    "static/js/3.b6bdd7b3.chunk.js": "/prequel-tool/static/js/3.b6bdd7b3.chunk.js",
+    "static/js/3.b6bdd7b3.chunk.js.map": "/prequel-tool/static/js/3.b6bdd7b3.chunk.js.map",
     "index.html": "/prequel-tool/index.html",
-    "precache-manifest.ae81147f7b391d50f10e1365176ef05e.js": "/prequel-tool/precache-manifest.ae81147f7b391d50f10e1365176ef05e.js",
+    "precache-manifest.a0275a55b44f7c8bbc84b38dd384f312.js": "/prequel-tool/precache-manifest.a0275a55b44f7c8bbc84b38dd384f312.js",
     "service-worker.js": "/prequel-tool/service-worker.js",
-    "static/css/main.2bc254c8.chunk.css.map": "/prequel-tool/static/css/main.2bc254c8.chunk.css.map",
+    "static/css/main.66e304ff.chunk.css.map": "/prequel-tool/static/css/main.66e304ff.chunk.css.map",
     "static/js/2.843fe0e8.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.843fe0e8.chunk.js.LICENSE.txt",
     "static/media/bg-main.jpg": "/prequel-tool/static/media/bg-main.b58adbd4.jpg",
     "static/media/giant-toad.png": "/prequel-tool/static/media/giant-toad.4476daa0.png",
     "static/media/grimhowl-gang.png": "/prequel-tool/static/media/grimhowl-gang.9edbd398.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.29673601.js",
+    "static/js/runtime-main.ce81dfc0.js",
     "static/js/2.843fe0e8.chunk.js",
-    "static/css/main.2bc254c8.chunk.css",
-    "static/js/main.9fa4541d.chunk.js"
+    "static/css/main.66e304ff.chunk.css",
+    "static/js/main.86464e30.chunk.js"
   ]
 }
