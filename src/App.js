@@ -2,11 +2,12 @@ import React from 'react';
 import bossData from './bossData.json';
 import BossGrid from './components/BossGrid';
 import './App.css';
+import iconMapping from './helpers/icon-mapping';
 
 const BossZone = ({ zone, bossesData }) => {
   return (
     <div className="boss-zone">
-      <h5 style={{ color: bossesData.color }} className="zone-title">{zone} {bossesData.food}</h5>
+      <h5 style={{ color: bossesData.color }} className="zone-title">{iconMapping(zone)} {zone} {iconMapping(bossesData.food)}</h5>
       <div className="bosses">
         {bossesData.bosses.map((boss, index) => (
           <BossGrid key={index} boss={boss} />

@@ -94,7 +94,9 @@ const BossGrid = ({ boss }) => {
 
     return (
         <div className="boss">
-            <img src={require(`../public/img/${boss.img}`)} alt={boss.name} />
+            <div className="boss-img-container">
+                <img src={require(`../public/img/${boss.img}`)} alt={boss.name} />
+            </div>
             <div className="boss-details">
                 <h3 className="boss-name">{boss.name}</h3>
                 <p className="boss-time">

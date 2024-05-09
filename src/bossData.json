@@ -46,7 +46,7 @@
                 "time": "Night",
                 "start": "20:00",
                 "end": "6:00",
-                "img": "boar-king.png"
+                "img": "ElfMandgora.png"
             }
         ],
         "food": "Tomato",
@@ -59,14 +59,14 @@
                 "time": "Day",
                 "start": "6:00",
                 "end": "18:00",
-                "img": "boar-king.png"
+                "img": "Medusa.png"
             },
             {
                 "name": "Inductive Slime King",
                 "time": "Night",
                 "start": "18:00",
                 "end": "6:00",
-                "img": "boar-king.png"
+                "img": "SlimeKing.png"
             }
         ],
         "food": "Russula",
@@ -79,7 +79,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "CrystalSnapclaw.png"
             }
         ],
         "food": "Blue Milkcap",
@@ -92,7 +92,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "SkeletonKing.png"
             }
         ],
         "food": "Eggplant",
@@ -105,14 +105,14 @@
                 "time": "Day",
                 "start": "6:00",
                 "end": "18:00",
-                "img": "boar-king.png"
+                "img": "Sandworm.png"
             },
             {
                 "name": "Anubis",
                 "time": "Night",
                 "start": "18:00",
                 "end": "6:00",
-                "img": "boar-king.png"
+                "img": "Anubis.png"
             }
         ],
         "food": "Water Melon",
@@ -125,21 +125,21 @@
                 "time": "Day",
                 "start": "6:00",
                 "end": "18:00",
-                "img": "boar-king.png"
+                "img": "ArcKnight.png"
             },
             {
                 "name": "Black Arc Knight",
                 "time": "Evening",
                 "start": "18:00",
                 "end": "20:00",
-                "img": "boar-king.png"
+                "img": "BlackArcKnight.png"
             },
             {
                 "name": "Arc Wizard",
                 "time": "Night",
                 "start": "20:00",
                 "end": "6:00",
-                "img": "boar-king.png"
+                "img": "ArcWizard.png"
             }
         ],
         "food": "Pea",
@@ -152,7 +152,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "TriumviriteMegaliths.png"
             }
         ],
         "food": "Orange",
@@ -165,7 +165,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "GoblinHighPriest.png"
             }
         ],
         "food": "Pumpkin",
@@ -178,7 +178,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "BuccaneerCaptain.png"
             }
         ],
         "food": "Carrot",
@@ -191,7 +191,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "EmberWyrm.png"
             }
         ],
         "food": "Dragon Fruit",
@@ -204,7 +204,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "SnowMonkeyking.png"
             }
         ],
         "food": "Banana",
@@ -217,7 +217,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "ZulantheColossus.png"
             }
         ],
         "food": "Grapes",
@@ -230,7 +230,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "C6H806.png"
             }
         ],
         "food": "Carrot",
@@ -243,7 +243,7 @@
                 "time": "All Day",
                 "start": "0:00",
                 "end": "24:00",
-                "img": "boar-king.png"
+                "img": "VoidVarkolyn.png"
             }
         ],
         "food": "Devil's Fruit",

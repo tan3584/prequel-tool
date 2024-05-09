@@ -1,9 +1,9 @@
 .App {
   background-image: url('./public/img/s2-banner.png');
   background-position: center 0;
-  background-size: auto 24.5625rem;
+  background-size: contain;
   background-repeat: no-repeat;
-  padding-top: 24.5625rem;
+  padding-top: 10.5625rem;
 }
 
 
@@ -28,4 +28,10 @@
 
 .zone-title {
   margin: 2px;
+}
+
+.zone-icon{
+  width: 15px;
+  height: 16px;
+  vertical-align: middle;
 }
