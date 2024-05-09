@@ -1,0 +1,81 @@
+{
+    "basic": [
+        {
+            "name": "Multishot",
+            "effect": [
+                "Projectiles: Number of projectiles +(2/4) [+1/2 for some projectiles]",
+                "Damage x(70/60)%",
+                "Range x(90/80)%"
+            ],
+            "hex": "Effect but has -10% Crit Chance",
+            "where": [
+                "Medusa",
+                "Goblin",
+                "Ruined Citadel",
+                "Tower of Aeonia"
+            ]
+        },
+        {
+            "name": "Primo Helheart",
+            "effect": [
+                "+10% to STR, DEX, & INT",
+                "14% to release 44 AOEs when attacking",
+                "AoE: 750% Dark Dmg (Hybrid) and apply Dark Ailment"
+            ],
+            "hex": "None",
+            "where": [
+                "Level 8: Corrupted Maps"
+            ]
+        },
+        {
+            "name": "Helheart: Fortio",
+            "effect": [
+                "Strength +150"
+            ],
+            "hex": "None",
+            "where": [
+                "Level 6 and above: Corrupted Maps"
+            ]
+        },
+        {
+            "name": "Latent Potential",
+            "effect": [
+                "Increases :AllDamage: by upto +(80/160)%  in Inverse proportion to mana"
+            ],
+            "hex": "Effect but also increases Skill Mana cost by upto 50% in inverse proportion to mana",
+            "where": [
+                "Euphorian",
+                "Kernel Subspace"
+            ]
+        },
+        {
+            "name": "Ricochet",
+            "effect": [
+                "Projectiles: Bounce off enemies (2/5) times toward nearby enemies",
+                "Bounce Wall"
+            ],
+            "hex": "Bounce off enemies 1 time toward nearby enemies. Damage -5%",
+            "where": [
+                "Mandragora",
+                "Slime",
+                "Halcyon Cemetery",
+                "Seacrest Haven"
+            ]
+        },
+        {
+            "name": "Epicenter",
+            "effect": [
+                "Melee attacks & AOE skills: Range x(80/60)%",
+                "Damage x(160/240)%"
+            ],
+            "hex": ":2P: Effect. Body Shape Change [Shrink]",
+            "where": [
+                "Triumvirite",
+                "Witch",
+                "Halcyon Cemetery",
+                "Scorching Volcano"
+            ]
+        }
+    ]
+
+}

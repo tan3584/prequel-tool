@@ -18,7 +18,7 @@ const calculateTimeRemaining = (startTime, endTime) => {
 };
 
 
-const BossGrid = ({ key, boss }) => {
+const BossGrid = ({ boss }) => {
 
     const [timeRemaining, setTimeRemaining] = useState(
         calculateTimeRemaining(boss.start, boss.end)
@@ -58,7 +58,7 @@ const BossGrid = ({ key, boss }) => {
 
 
     return (
-        <div key={key} className="boss">
+        <div className="boss">
             <img src={require(`../public/img/${boss.img}`)} alt={boss.name} />
             <div className="boss-details">
                 <h3 className="boss-name">{boss.name}</h3>
