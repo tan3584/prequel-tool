@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prequel-tool/static/css/main.e6718fe0.chunk.css",
+    "main.css": "/prequel-tool/static/css/main.2bc254c8.chunk.css",
     "main.js": "/prequel-tool/static/js/main.9fa4541d.chunk.js",
     "main.js.map": "/prequel-tool/static/js/main.9fa4541d.chunk.js.map",
     "runtime-main.js": "/prequel-tool/static/js/runtime-main.29673601.js",
@@ -10,9 +10,9 @@
     "static/js/3.96d5a353.chunk.js": "/prequel-tool/static/js/3.96d5a353.chunk.js",
     "static/js/3.96d5a353.chunk.js.map": "/prequel-tool/static/js/3.96d5a353.chunk.js.map",
     "index.html": "/prequel-tool/index.html",
-    "precache-manifest.7300b4f8ab50ca04c131586e67329838.js": "/prequel-tool/precache-manifest.7300b4f8ab50ca04c131586e67329838.js",
+    "precache-manifest.ae81147f7b391d50f10e1365176ef05e.js": "/prequel-tool/precache-manifest.ae81147f7b391d50f10e1365176ef05e.js",
     "service-worker.js": "/prequel-tool/service-worker.js",
-    "static/css/main.e6718fe0.chunk.css.map": "/prequel-tool/static/css/main.e6718fe0.chunk.css.map",
+    "static/css/main.2bc254c8.chunk.css.map": "/prequel-tool/static/css/main.2bc254c8.chunk.css.map",
     "static/js/2.843fe0e8.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.843fe0e8.chunk.js.LICENSE.txt",
     "static/media/bg-main.jpg": "/prequel-tool/static/media/bg-main.b58adbd4.jpg",
     "static/media/giant-toad.png": "/prequel-tool/static/media/giant-toad.4476daa0.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.29673601.js",
     "static/js/2.843fe0e8.chunk.js",
-    "static/css/main.e6718fe0.chunk.css",
+    "static/css/main.2bc254c8.chunk.css",
     "static/js/main.9fa4541d.chunk.js"
   ]
 }
