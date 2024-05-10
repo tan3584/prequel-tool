@@ -42,7 +42,7 @@
                 "img": "mandgora.png"
             },
             {
-                "name": "Elf + Mandgora",
+                "name": "Elf Mandgora",
                 "time": "Night",
                 "start": "20:00",
                 "end": "6:00",
@@ -62,7 +62,7 @@
                 "img": "Medusa.png"
             },
             {
-                "name": "Inductive Slime King",
+                "name": "Slime King",
                 "time": "Night",
                 "start": "18:00",
                 "end": "6:00",

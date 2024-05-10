@@ -1,3 +1,4 @@
+/* Common styles */
 .boss {
     display: flex;
     align-items: center;
@@ -36,13 +37,13 @@
 }
 
 .boss-time {
-    position: absolute;
-    bottom: 5px;
-    left: 5px;
     text-align: left;
-    margin: 0;
+    margin: 5px;
 }
 
+.boss-time p{
+    margin: 0;
+}
 
 .boss-details {
     flex-grow: 1;
@@ -58,25 +59,51 @@
     font-weight: 500;
     font-size: 12px;
     color: #acb0b1;
-    margin: 0;
+}
+
+.time-active{
+    color: rgb(231, 4, 4);
 }
 
 
 @media only screen and (max-width: 600px) {
     .boss-table {
-        grid-template-columns: 1fr;
-    }
-
-    .bosses {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 0;
+        padding: 15px;
     }
 
     .boss-name {
         font-size: 11px;
     }
-
     
     .boss-time {
         font-size: 10px;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .boss-table{
+        min-width: 756px;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    .boss-table{
+        min-width: 1628px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .boss div {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .boss-name {
+        font-size: 17px;
+    }
+    
+    .boss-time {
+        font-size: 15px;
     }
 }

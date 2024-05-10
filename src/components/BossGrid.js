@@ -82,11 +82,11 @@ const BossGrid = ({ boss }) => {
 
     const displayTime = () => {
         if (boss.time === 'All Day') {
-            return 'All Day';
+            return (<p className="time-active">All Day</p>);
         } else if (isBossOngoing()) {
-            return `Ongoing ${formatTime(timeRemaining.hours)}:${formatTime(timeRemaining.minutes)}:${formatTime(timeRemaining.seconds)}`;
+            return (<p className="time-active">{formatTime(timeRemaining.hours)}:{formatTime(timeRemaining.minutes)}:{formatTime(timeRemaining.seconds)}</p>);
         } else {
-            return `Start in ${formatTime(timeRemaining.hours)}:${formatTime(timeRemaining.minutes)}:${formatTime(timeRemaining.seconds)}`;
+            return (<p className="time-start">{formatTime(timeRemaining.hours)}:{formatTime(timeRemaining.minutes)}:{formatTime(timeRemaining.seconds)}</p>);
         }
 
     }

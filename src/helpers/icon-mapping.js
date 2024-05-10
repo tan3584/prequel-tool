@@ -6,7 +6,13 @@ const iconData = {
     },
     "Cherry": {
         "icon": "cherry.png"
-    }
+    },
+    "Bulrush Marshes": {
+        "icon": "BulrushMarshes.png"
+    },
+    "Rice": {
+        "icon": "rice.png"
+    },
 };
 
 

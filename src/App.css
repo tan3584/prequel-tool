@@ -3,7 +3,8 @@
   background-position: center 0;
   background-size: contain;
   background-repeat: no-repeat;
-  padding-top: 10.5625rem;
+  padding-top: 8.5625rem;
+  padding: 20px;
 }
 
 
@@ -11,7 +12,14 @@
   .App {
     background-image: url('./public/img/m-s2-banner.png');
     background-size: 100% 12.25rem;
-    padding-top: 12.25rem;
+    padding-top: 10.25rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
