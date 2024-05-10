@@ -3,8 +3,7 @@
   background-position: center 0;
   background-size: contain;
   background-repeat: no-repeat;
-  padding-top: 8.5625rem;
-  padding: 20px;
+  padding-top: 24.5625rem;
 }
 
 
@@ -38,8 +37,20 @@
   margin: 2px;
 }
 
-.zone-icon{
+.zone-icon {
   width: 15px;
   height: 16px;
   vertical-align: middle;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
 }
