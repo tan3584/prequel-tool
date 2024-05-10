@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6683b495e8ef54c3956e1696751a178e",
+    "revision": "26341cdf4a83b902b282d24d73c0b38c",
     "url": "/prequel-tool/index.html"
   },
   {
-    "revision": "8df4109c89632bdca5b9",
-    "url": "/prequel-tool/static/css/main.b057a6f9.chunk.css"
+    "revision": "4c7f2637206ad2d1d8b6",
+    "url": "/prequel-tool/static/css/main.66c694c9.chunk.css"
   },
   {
     "revision": "885edf347f7eafe19f84",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prequel-tool/static/js/3.d5daf939.chunk.js"
   },
   {
-    "revision": "8df4109c89632bdca5b9",
-    "url": "/prequel-tool/static/js/main.bc456b95.chunk.js"
+    "revision": "4c7f2637206ad2d1d8b6",
+    "url": "/prequel-tool/static/js/main.4b0c2910.chunk.js"
   },
   {
     "revision": "a7644f130d8cce3f3af5",

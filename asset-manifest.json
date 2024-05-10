@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/prequel-tool/static/css/main.b057a6f9.chunk.css",
-    "main.js": "/prequel-tool/static/js/main.bc456b95.chunk.js",
-    "main.js.map": "/prequel-tool/static/js/main.bc456b95.chunk.js.map",
+    "main.css": "/prequel-tool/static/css/main.66c694c9.chunk.css",
+    "main.js": "/prequel-tool/static/js/main.4b0c2910.chunk.js",
+    "main.js.map": "/prequel-tool/static/js/main.4b0c2910.chunk.js.map",
     "runtime-main.js": "/prequel-tool/static/js/runtime-main.03b8bce1.js",
     "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.03b8bce1.js.map",
     "static/js/2.d33b420a.chunk.js": "/prequel-tool/static/js/2.d33b420a.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.d5daf939.chunk.js": "/prequel-tool/static/js/3.d5daf939.chunk.js",
     "static/js/3.d5daf939.chunk.js.map": "/prequel-tool/static/js/3.d5daf939.chunk.js.map",
     "index.html": "/prequel-tool/index.html",
-    "precache-manifest.5dca4b59e2f2982d44914b96c688df01.js": "/prequel-tool/precache-manifest.5dca4b59e2f2982d44914b96c688df01.js",
+    "precache-manifest.4d26f2bf04feb31a2710d6f5793c70f7.js": "/prequel-tool/precache-manifest.4d26f2bf04feb31a2710d6f5793c70f7.js",
     "service-worker.js": "/prequel-tool/service-worker.js",
-    "static/css/main.b057a6f9.chunk.css.map": "/prequel-tool/static/css/main.b057a6f9.chunk.css.map",
+    "static/css/main.66c694c9.chunk.css.map": "/prequel-tool/static/css/main.66c694c9.chunk.css.map",
     "static/js/2.d33b420a.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.d33b420a.chunk.js.LICENSE.txt",
     "static/media/Anubis.png": "/prequel-tool/static/media/Anubis.e8b09467.png",
     "static/media/ArcKnight.png": "/prequel-tool/static/media/ArcKnight.6ddcd4af.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.03b8bce1.js",
     "static/js/2.d33b420a.chunk.js",
-    "static/css/main.b057a6f9.chunk.css",
-    "static/js/main.bc456b95.chunk.js"
+    "static/css/main.66c694c9.chunk.css",
+    "static/js/main.4b0c2910.chunk.js"
   ]
 }
