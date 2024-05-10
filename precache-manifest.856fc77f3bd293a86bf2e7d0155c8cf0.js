@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "944fee0a630a5195992e9deb38f159f9",
+    "revision": "dccde78024b2f1c491bd2b9a2069fe69",
     "url": "/prequel-tool/index.html"
   },
   {
-    "revision": "4c7f2637206ad2d1d8b6",
-    "url": "/prequel-tool/static/css/main.66c694c9.chunk.css"
+    "revision": "acc1c27ef929e2db1348",
+    "url": "/prequel-tool/static/css/main.acbf7145.chunk.css"
   },
   {
-    "revision": "885edf347f7eafe19f84",
-    "url": "/prequel-tool/static/js/2.d33b420a.chunk.js"
+    "revision": "dc323c6fd15f9826a5fc",
+    "url": "/prequel-tool/static/js/2.374cf6de.chunk.js"
   },
   {
     "revision": "031b676e05011817ecfd16975d0da65c",
-    "url": "/prequel-tool/static/js/2.d33b420a.chunk.js.LICENSE.txt"
+    "url": "/prequel-tool/static/js/2.374cf6de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43d3d046026ca2073583",
-    "url": "/prequel-tool/static/js/3.d5daf939.chunk.js"
+    "revision": "e0d29b4b95e06725c85a",
+    "url": "/prequel-tool/static/js/3.12319751.chunk.js"
   },
   {
-    "revision": "4c7f2637206ad2d1d8b6",
-    "url": "/prequel-tool/static/js/main.4b0c2910.chunk.js"
+    "revision": "acc1c27ef929e2db1348",
+    "url": "/prequel-tool/static/js/main.3f4e8e3d.chunk.js"
   },
   {
-    "revision": "a7644f130d8cce3f3af5",
-    "url": "/prequel-tool/static/js/runtime-main.03b8bce1.js"
+    "revision": "0e2ea0a4f4ab4ba0f80c",
+    "url": "/prequel-tool/static/js/runtime-main.25a9db7c.js"
   },
   {
     "revision": "e8b094677d6fa72ec205fe70e8eaa05d",

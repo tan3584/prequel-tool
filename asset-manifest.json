@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/prequel-tool/static/css/main.66c694c9.chunk.css",
-    "main.js": "/prequel-tool/static/js/main.4b0c2910.chunk.js",
-    "main.js.map": "/prequel-tool/static/js/main.4b0c2910.chunk.js.map",
-    "runtime-main.js": "/prequel-tool/static/js/runtime-main.03b8bce1.js",
-    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.03b8bce1.js.map",
-    "static/js/2.d33b420a.chunk.js": "/prequel-tool/static/js/2.d33b420a.chunk.js",
-    "static/js/2.d33b420a.chunk.js.map": "/prequel-tool/static/js/2.d33b420a.chunk.js.map",
-    "static/js/3.d5daf939.chunk.js": "/prequel-tool/static/js/3.d5daf939.chunk.js",
-    "static/js/3.d5daf939.chunk.js.map": "/prequel-tool/static/js/3.d5daf939.chunk.js.map",
+    "main.css": "/prequel-tool/static/css/main.acbf7145.chunk.css",
+    "main.js": "/prequel-tool/static/js/main.3f4e8e3d.chunk.js",
+    "main.js.map": "/prequel-tool/static/js/main.3f4e8e3d.chunk.js.map",
+    "runtime-main.js": "/prequel-tool/static/js/runtime-main.25a9db7c.js",
+    "runtime-main.js.map": "/prequel-tool/static/js/runtime-main.25a9db7c.js.map",
+    "static/js/2.374cf6de.chunk.js": "/prequel-tool/static/js/2.374cf6de.chunk.js",
+    "static/js/2.374cf6de.chunk.js.map": "/prequel-tool/static/js/2.374cf6de.chunk.js.map",
+    "static/js/3.12319751.chunk.js": "/prequel-tool/static/js/3.12319751.chunk.js",
+    "static/js/3.12319751.chunk.js.map": "/prequel-tool/static/js/3.12319751.chunk.js.map",
     "index.html": "/prequel-tool/index.html",
-    "precache-manifest.ee0ea357b4645f738f6a5158830d5aab.js": "/prequel-tool/precache-manifest.ee0ea357b4645f738f6a5158830d5aab.js",
+    "precache-manifest.856fc77f3bd293a86bf2e7d0155c8cf0.js": "/prequel-tool/precache-manifest.856fc77f3bd293a86bf2e7d0155c8cf0.js",
     "service-worker.js": "/prequel-tool/service-worker.js",
-    "static/css/main.66c694c9.chunk.css.map": "/prequel-tool/static/css/main.66c694c9.chunk.css.map",
-    "static/js/2.d33b420a.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.d33b420a.chunk.js.LICENSE.txt",
+    "static/css/main.acbf7145.chunk.css.map": "/prequel-tool/static/css/main.acbf7145.chunk.css.map",
+    "static/js/2.374cf6de.chunk.js.LICENSE.txt": "/prequel-tool/static/js/2.374cf6de.chunk.js.LICENSE.txt",
     "static/media/Anubis.png": "/prequel-tool/static/media/Anubis.e8b09467.png",
     "static/media/ArcKnight.png": "/prequel-tool/static/media/ArcKnight.6ddcd4af.png",
     "static/media/ArcWizard.png": "/prequel-tool/static/media/ArcWizard.c8aa705e.png",
@@ -38,9 +38,9 @@
     "static/media/App.css": "/prequel-tool/static/media/s2-banner.4302a350.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.03b8bce1.js",
-    "static/js/2.d33b420a.chunk.js",
-    "static/css/main.66c694c9.chunk.css",
-    "static/js/main.4b0c2910.chunk.js"
+    "static/js/runtime-main.25a9db7c.js",
+    "static/js/2.374cf6de.chunk.js",
+    "static/css/main.acbf7145.chunk.css",
+    "static/js/main.3f4e8e3d.chunk.js"
   ]
 }
